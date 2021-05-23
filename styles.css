@@ -1,0 +1,16 @@
+.btn{
+    background-color: #1b1b1b;
+    color: #e4fbff;
+    font-size: 140%;
+    border: 0.3px solid #e4fbff;
+    border-radius: 10%;
+    padding: 1% 1%;
+}
+.songBtn{
+    background-color: #1b1b1b;
+    color: #f8f1f1;
+    font-size: 140%;
+    border: 0.3px solid #f8f1f1;
+    border-radius: 10%;
+    padding: 1% 1%;
+}
