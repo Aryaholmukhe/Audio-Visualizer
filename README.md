@@ -1,3 +1,6 @@
 # Audio-Visualizer
 
-![Alt text](https://ibb.co/vc9vPHT "Optional title")
+
+<img src="https://github.com/Aryaholmukhe/Audio-Visualizer/blob/main/Capture.PNG?raw=true" data-canonical-src="https://github.com/Aryaholmukhe/Audio-Visualizer/blob/main/Capture.PNG?raw=true" width="550" />
+
+Just for fun
