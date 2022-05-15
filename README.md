@@ -1,2 +1,2 @@
 # Audio-Visualizer
-![Alt text](Audio-Viualizer/audioVisualizer.jpg?raw=true "Optional Title")
+![Alt text](https://ibb.co/vc9vPHT?raw=true "Optional Title")
